@@ -1,24 +1,13 @@
-
-<img src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/frontend/src/assets/Logo/Logo-Full-Light.png' />
+<img src='https://github.com/aayushkumar-999/study-notion/blob/main/frontend/src/assets/Logo/Logo-Full-Light.png' />
 
 # Project Description 📝
 StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. <br/>
 The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
 
-<h2>Explanation Video 📺 - [ https://www.youtube.com/watch?v=UP-kqPs4dJ8 ]</h2>
-<hr/>
-
-<h2>Live link 🌍📡 - [  https://study-notion-full-stack.vercel.app/  ]</h2>
-<hr/>
-
-
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/home1.png' />
-
-
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/home1.png' />
 
 ## Table of Contents
-
 
 | Section                 | Description                                  |
 |-------------------------|----------------------------------------------|
@@ -31,11 +20,6 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 | [React Library](#react-library-)         | ⚛️📚 Overview of React Libraries used        |
 | [Screen Preview](#screen-preview-)         | 🖥️ Screen Preview        |
 
-
-
-
-
-
 ## StudyNotion Aim 📚 
 <br/>
 1️⃣ A seamless and interactive learning experience for students, making education more accessible and engaging.<br/>
@@ -43,34 +27,28 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 
 <br/>
 <br/>
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/gif.gif' />
-
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/Tech%20stack%20logo/gif.gif' />
 
 ## Tech Stack 💻🔧 
 
-## Frontend 🎨 : 
-<code title="React.js"><img height="40" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/react%20ogo.png"></code>
-<code title="Vite"><img height="40" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/Vitejs-logo.png"></code>
-<code title="Redux.js"><img height="35" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/redux-logo.png"></code>
-<code title="css"><img height="40" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/css%20logo.png"></code>
-<code title="Tailwind css"><img height="35" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/tailwind%20css%20logo.png"></code>
+### Frontend 🎨 : 
+<code title="React.js"><img height="40" src="https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/Tech%20stack%20logo/react%20ogo.png"></code>
+<code title="Vite"><img height="40" src="https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/Tech%20stack%20logo/Vitejs-logo.png"></code>
+<code title="Redux.js"><img height="35" src="https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/Tech%20stack%20logo/redux-logo.png"></code>
+<code title="css"><img height="40" src="https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/Tech%20stack%20logo/css%20logo.png"></code>
+<code title="Tailwind css"><img height="35" src="https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/Tech%20stack%20logo/tailwind%20css%20logo.png"></code>
 
+### Backend ⚙️ :
+<code title="Nodejs"><img height="50" src="https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/Tech%20stack%20logo/nodejs-logo.png"></code>
+<code title="Express"><img height="70" src="https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/Tech%20stack%20logo/express%20logo.png"></code>
 
-## Backend ⚙️ :
-<code title="Nodejs"><img height="50" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/nodejs-logo.png"></code>
-<code title="Express"><img height="70" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/express%20logo.png"></code>
+### Database 🛢️ :
+<code title="Mongodb"><img height="40" src="https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/Tech%20stack%20logo/mongodb%20logo.png"></code>
 
-
-## Database 🛢️ :
-<code title="Mongodb"><img height="40" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/mongodb%20logo.png"></code>
-
-## Cloudinary Integration ☁️
-<code title="Mongodb"><img height="40" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/cloudinary-logo.jpg"></code>
+### Cloudinary Integration ☁️
+<code title="Cloudinary"><img height="40" src="https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/Tech%20stack%20logo/cloudinary-logo.jpg"></code>
 
 <hr/>
-
-
-
 
 ## System Architecture 🏰
 <br/>
@@ -86,34 +64,29 @@ The back end of the platform is built using NodeJS and ExpressJS, which are popu
 🛢️ Database  <br/>
 The database for the platform is built using MongoDB, which is a NoSQL database that provides a flexible and scalable data storage solution. MongoDB allows for the storage of unstructured and semi-structured data, which is useful for storing course content such as videos, images, and PDFs. The database stores the course content, user data, and other relevant information related to the platform.
 
-
-
 ## Architecture Diagram 🏗️
 <br/>
 Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech platform:
-<img width='60%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Architecture%20Diagram.png' />
-
+<img width='60%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/Architecture%20Diagram.png' />
 
 <hr/>
 
 #### The front end of StudyNotion has all the necessary pages that an ed-tech platform should have. Some of these pages are: 
 
 For Students:
-- **Homepage 🏠:** A brief introduction to the platform with links to the course list and user details and random background.
-- **Course List 📚:** A list of all the courses available on the platform, along with their descriptions and ratings.
-- **Wishlist 💡:** Displays all the courses that a student has added to their wishlist.
-- **Cart Checkout 🛒 :** Allows the user to complete course purchases.
-- **Course Content 🎓:** Presents the course content for a particular course, including videos and related material.
-- **User Details 👤:** Provides details about the student's account, including their name, email, and other relevant information.
-- **User Edit Details ✏️:** Allows students to edit their account details.
+- **Homepage 🏠**
+- **Course List 📚**
+- **Wishlist 💡**
+- **Cart Checkout 🛒**
+- **Course Content 🎓**
+- **User Details 👤**
+- **User Edit Details ✏️**
 
 For Instructors:
-- **Dashboard 📊:** Offers an overview of the instructor's courses, along with ratings and feedback for each course.
-- **Insights 📈:** Provides detailed insights into the instructor's courses, including the number of views, clicks, and other relevant metrics.
-- **Course Management Pages 🛠️:** Enables instructors to create, update, and delete courses, as well as manage course content and pricing.
-- **View and Edit Profile Details 👀:** Allows instructors to view and edit their account details.
-
-
+- **Dashboard 📊**
+- **Insights 📈**
+- **Course Management Pages 🛠️**
+- **View and Edit Profile Details 👀**
 
 ### Back-end ⚙️
 
@@ -121,35 +94,27 @@ The back-end of the platform is built using NodeJS and ExpressJS, providing APIs
 
 #### Back-end Features
 
-- **User Authentication and Authorization 🔐:** Students and instructors can sign up and log in to the platform using their email addresses and passwords. The platform also supports OTP (One-Time Password) verification and forgot password functionality for added security.
-- **Course Management 🛠️:** Instructors can create, read, update, and delete courses, as well as manage course content and media. Students can view and rate courses.
-- **Payment Integration 💳:** Students will purchase and enroll in courses by completing the checkout flow, followed by Razorpay integration for payment handling.
-- **Cloud-based Media Management ☁️ :** StudyNotion uses Cloudinary, a cloud-based media management service, to store and manage all media content, including images, videos, and documents.
-- **Markdown Formatting ✍️:** Course content in document format is stored in Markdown format, allowing for easier display and rendering on the front-end.
-
-
+- **User Authentication and Authorization 🔐**
+- **Course Management 🛠️**
+- **Payment Integration 💳**
+- **Cloud-based Media Management ☁️**
+- **Markdown Formatting ✍️**
 
 #### Data Models and Database Schema
 
-The back-end of StudyNotion uses several data models and database schemas to manage data, including:
-
-- **Student Schema 🧑‍🎓:** Includes fields such as name, email, password, and course details for each student.
-- **Instructor Schema 👩‍🏫:** Includes fields such as name, email, password, and course details for each instructor.
-- **Course Schema 📚:** Includes fields such as course name, description, instructor details, and media content.
-
+- **Student Schema 🧑‍🎓**
+- **Instructor Schema 👩‍🏫**
+- **Course Schema 📚**
 
 ### Database 🛢️
-The database for the platform is built using MongoDB, a NoSQL database that provides a flexible and scalable data storage solution. MongoDB allows for the storage of unstructured and semi-structured data. The database stores the course content, user data, and other relevant information related to the platform.
+MongoDB is used as the database for flexible and scalable data storage.
 
 ## Schema 📋
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Schema.png' />
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/Schema.png' />
 
 <hr/>
 
-
 ## React Hooks 🎣
-
-Utilized several React hooks for efficient state management and dynamic behavior:
 
 - `useState`
 - `useEffect`
@@ -167,103 +132,82 @@ Utilized several React hooks for efficient state management and dynamic behavior
 
 ## 📚 **React Library**:
 
-- 🚀 **Lazy Loading**: Enhance performance by lazily loading images using the react-lazy-load-image library.
-- 📊 **Chart.js:**  Versatile charting library for creating interactive and visually appealing charts.
-- 🎭**Framer Motion:**  Animation library for React, providing smooth and expressive motion.
-- 📁 **React Dropzone:**  Drag-and-drop file uploader for React applications.
-- 🍞 **React Hot Toast:**  Elegant and customizable toast notifications for React applications.
-- 🔢 **React OTP Input:**  Input component for one-time password entry in React forms.
-- 📊 **React Super Responsive Table:**  Highly responsive and feature-rich table component for React.
-- 🔄 **Swiper:**  Modern touch slider for mobile and desktop browsers.
-- 🖋️ **React Type Animation:**  Simple and configurable typing animation component for React.
-- 🎥 **Video React:**  React-based video player for building rich multimedia experiences in web applications.
-
-
+- 🚀 **Lazy Loading**
+- 📊 **Chart.js**
+- 🎭 **Framer Motion**
+- 📁 **React Dropzone**
+- 🍞 **React Hot Toast**
+- 🔢 **React OTP Input**
+- 📊 **React Super Responsive Table**
+- 🔄 **Swiper**
+- 🖋️ **React Type Animation**
+- 🎥 **Video React**
 
 ##  🖥️ Screen Preview :
 
 # Random Home Page Background 🏠 
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/home3.png' />
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/home4.png' />
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/home3.png' />
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/home4.png' />
 
 # About Page
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/about.png' />
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/about.png' />
 
 # Contact Page
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/contact.png' />
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/contact.png' />
 
-# Forgot passwornd
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/forgot%20pass.png' />
+# Forgot Password
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/forgot%20pass.png' />
 
 # Dashboard
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/dashboard.png' />
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/dashboard.png' />
 
 # Edit Profile
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/edit%20profile.png' />
-
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/edit%20profile.png' />
 
 # Add Course
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/add%20course.png' />
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/add%20course.png' />
 
 # Edit Course
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/edit%20course.png' />
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/edit%20course.png' />
 
 # Course Details 1
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/course%20details1.png' />
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/course%20details1.png' />
 
 # Course Details 2
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/course%20details2.png' />
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/course%20details2.png' />
 
 # Add Review
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/add%20review.png' />
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/add%20review.png' />
 
 # Cart1
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/cart1.png' />
-
-
-
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/cart1.png' />
 
 # Enrolled Courses 1
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/enrolled%20courses1.png' />
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/enrolled%20courses1.png' />
 
 # Enrolled Courses 2
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/enrolled%20courses2.png' />
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/enrolled%20courses2.png' />
 
 # Instructor Data 1
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/instrctor%20data1.png' />
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/instrctor%20data1.png' />
 
 # Instructor Data 2
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/instrctor%20data2.png' />
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/instrctor%20data2.png' />
 
 # My Courses 1
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/myCourses1.png' />
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/myCourses1.png' />
 
 # My Courses 2
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/myCourses2.png' />
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/myCourses2.png' />
 
 # View Courses 1
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/view%20course1.png' />
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/view%20course1.png' />
 
 # View Courses 2
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/view%20course2.png' />
-
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/view%20course2.png' />
 
 # Delete Account
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/delete%20account.png' />
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/delete%20account.png' />
 
 # Footer
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/footer.png' />
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
+<img width='100%' src='https://github.com/aayushkumar-999/study-notion/blob/main/screenshots/footer.png' />
